@@ -1,12 +1,15 @@
 # Intelligent-Inventory-Management-System
 
 
-Download these file from GitHub for to run
+Downloading files from GitHub:
+Visit the GitHub repository where the files are stored such as by the name:
 
 1. Design and Development of data storage solutions for analysis
 2. Warehouse_and_Retail_Sales CSV
 
-Install SQL Server and connect to Database Engine
+Install SQL Server
+Install SQL Server Management Studio (SSMS)
+Connect to the Database Engine
 
 Demo Video
 
