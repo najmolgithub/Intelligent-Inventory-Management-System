@@ -8,7 +8,9 @@ Visit the GitHub repository where the files are stored such as by the name:
 2. Warehouse_and_Retail_Sales CSV
 
 Install SQL Server
+
 Install SQL Server Management Studio (SSMS)
+
 Connect to the Database Engine
 
 Demo Video
