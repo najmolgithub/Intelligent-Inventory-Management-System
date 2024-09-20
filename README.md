@@ -13,7 +13,7 @@ Install SQL Server Management Studio (SSMS)
 
 Connect to the Database Engine
 
-Demo Video
+Demo Video in the Issues
 
 
 
